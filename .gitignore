@@ -1,0 +1,14 @@
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+src/LinkedList
+src/Microsoft
+src/OnlineBookStore
+src/PayrollSystem
+src/semester1
+src/semester2
+src/Vehicles_GoodPolymorphism
+src/week12
